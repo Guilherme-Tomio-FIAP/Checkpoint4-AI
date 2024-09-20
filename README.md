@@ -7,8 +7,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-%20Desenvolvimento-yellow" alt="Status">
-  <img src="https://img.shields.io/github/license/rm552529/Scapy_Port_Scan" alt="License">
-  <img src="https://img.shields.io/github/issues/rm552529/Scapy_Port_Scan" alt="Contato">
+  <img src="https://img.shields.io/github/license/Guilherme-Tomio-FIAP/Checkpoint4-IA" alt="License">
+  <img src="https://img.shields.io/github/issues/Guilherme-Tomio-FIAP/Checkpoint4-IA" alt="Contato">
 </p>
 
 ## _ÍNDICE_
