@@ -94,7 +94,7 @@ for user_input in [user_input1, user_input2]:
         print(result["message"])
     else:
         print(f"Resposta: {result['response']}\nScore de risco: {result['score']:.4f}")
-     
+`````     
 
 ## _LICENÇA_ 📃
 LINK da Licença da autenticidade da ferramenta à seguir: [LICENÇA](LICENSE)
