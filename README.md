@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-%20Desenvolvimento-yellow" alt="Status">
+  <img src="https://img.shields.io/badge/Status-%20Launched-green" alt="Status">
   <img src="https://img.shields.io/github/license/Guilherme-Tomio-FIAP/Checkpoint4-IA" alt="License">
   <img src="https://img.shields.io/github/issues/Guilherme-Tomio-FIAP/Checkpoint4-IA" alt="Contato">
 </p>
