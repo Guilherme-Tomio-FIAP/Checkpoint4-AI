@@ -23,7 +23,7 @@
 Desenvolvimento da atividade proposta pelo professor da discipina de Inteligência Artificial e Machine Learning, Guilherme Seidyo Imai Aldeia, sendo a intituição de graduação FIAP (Faculdade de Informática e Administração Paulista).
 
 ## _CÓDIGO_ 🆘
-LINK do Código do Checkpoint a seguir: [JAILBREAK E LLMS](Main_Code)
+LINK do Código do Checkpoint a seguir: [JAILBREAK E LLMS](Jailbreak&&LLM`s.ipynb)
 
 
 ## _LICENÇA_ 📃
