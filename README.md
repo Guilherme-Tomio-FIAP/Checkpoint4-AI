@@ -26,9 +26,9 @@
 Desenvolvimento da atividade proposta pelo professor da discipina de Inteligência Artificial e Machine Learning, Guilherme Seidyo Imai Aldeia, sendo a intituição de graduação FIAP (Faculdade de Informática e Administração Paulista).
 
 ## _CÓDIGO_ 🆘
-LINK do Google-Colab com a respostan das perguntas: https://colab.research.google.com/drive/1DS4gvzMVPKA_02qYCQqFceCvFYmgDF6T?usp=sharing
+LINK do Google-Colab com a resposta das perguntas: https://colab.research.google.com/drive/1DS4gvzMVPKA_02qYCQqFceCvFYmgDF6T?usp=sharing
 
-LINK do Código com a resposta das perguntas do Checkpoint a seguir: [JAILBREAK E LLMS](Jailbreak&&LLM`s.ipynb)
+LINK do Código e com a resposta das perguntas do Checkpoint a seguir: [JAILBREAK E LLMS](Jailbreak&&LLM`s.ipynb)
 ````
 from transformers import pipeline
 
